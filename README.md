@@ -1,4 +1,4 @@
-# 🌟 Edunet Internship: Predicting Employee Burnout 🌟
+# 🌟 Edunet Internship: Predicting Employee Burnout 
 
 Welcome to the **Employee Burnout Prediction** project! Completed during my internship at **Edunet Foundation**, this project uses data analysis and machine learning to predict employee burnout based on various factors such as mental fatigue, resource allocation, and work environment.
 
