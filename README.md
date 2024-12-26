@@ -35,10 +35,6 @@ This project is open-source! For any questions, reach out through the repository
 
 Thank you for exploring this project! 🚀 Let's make work environments healthier with data-driven insights. 💡
 
-vbnet
-Copy code
-
-This version has a more engaging tone with icons and structured sections for easy reading. Feel free to adjust it based on your preferences!
 
 
 
